@@ -1,0 +1,10 @@
+package fr.openclassroom.animation.ameliorations.sansrebond;
+
+public class Main {
+
+    public static void main(String[] args){
+
+        Fenetre fen = new Fenetre();
+
+    }
+}
