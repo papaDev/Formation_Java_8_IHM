@@ -1,6 +1,6 @@
 package fr.openclassroom.boutons.gridbaglayout;
 
-public class Test {
+public class GridBagLayout {
 
     public static void main(String[] args) {
 
