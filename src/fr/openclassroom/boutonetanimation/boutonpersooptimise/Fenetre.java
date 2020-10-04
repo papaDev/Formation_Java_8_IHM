@@ -1,4 +1,4 @@
-package fr.openclassroom.boutonetanimation;
+package fr.openclassroom.boutonetanimation.boutonpersooptimise;
 
 import javax.swing.*;
 import java.awt.*;
@@ -6,7 +6,7 @@ import java.awt.*;
 public class Fenetre extends JFrame {
 
     private Panneau pan = new Panneau();
-    private JButton bouton = new JButton("mon bouton");
+    private Bouton bouton = new Bouton("mon bouton");
     private JPanel container = new JPanel();
 
     public Fenetre() {

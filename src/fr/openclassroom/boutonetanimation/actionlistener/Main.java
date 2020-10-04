@@ -1,4 +1,4 @@
-package fr.openclassroom.boutonetanimation;
+package fr.openclassroom.boutonetanimation.actionlistener;
 
 public class Main {
 

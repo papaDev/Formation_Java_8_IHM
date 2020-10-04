@@ -1,4 +1,4 @@
-package fr.openclassroom.boutonetanimation;
+package fr.openclassroom.boutonetanimation.mouselistener;
 
 import javax.swing.*;
 import java.awt.*;
