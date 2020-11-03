@@ -1,3 +1,4 @@
-.idea
+src/META-INF/
+out/
 Formation_Java_8_IHM.iml
-out
+.idea/
